@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import { FaFacebook, FaInstagram, FaTwitter, FaLinkedin, FaGithub } from "react-icons/fa";
 
 export default function Footer() {
   return (
@@ -30,7 +31,7 @@ export default function Footer() {
               <img className="w-52" src="/logo.png" alt="" />
             </Link>
             <p>
-              Empowering minds, one click at a time. VirtuLearn is your gateway
+              Empowering Rwandan minds, one click at a time. VirtuLearn is your gateway
               to accessible and interactive learning. We believe in the
               transformative power of education to shape a better future. Dive
               into a world of knowledge, connect with mentors, and embrace a new
@@ -93,19 +94,20 @@ export default function Footer() {
             <div className="flex flex-col gap-2">
               <p className="font-bold text-2xl mb-4">Contacts</p>
               <p>Location: Kigali, Rwanda</p>
-              <p>Email: i.aristide08@gmail.com</p>
-              <p>Phone: +250785478021</p>
+              <p>Email: kalisaken8@gmail.com</p>
+              <p>Phone: +250790821822</p>
               <div className="flex justify-start gap-3">
-                <img className="w-6" src="/twitter.png" alt="twitter" />
-                <img className="w-6" src="/facebook.png" alt="twitter" />
-                <img className="w-6" src="/linkedin.png" alt="twitter" />
-                <img className="w-6" src="/instagram.png" alt="twitter" />
+                <a href="https://www.instagram.com/kennyg37" target="blank"><FaInstagram className="text-3xl text-mainYellow" /></a>
+                <a href="https://www.facebook.com/kennyg37" target="blank"><FaFacebook className="text-3xl text-mainYellow" /></a>
+                <a href="https://www.twitter.com/grikrr" target="blank"><FaTwitter className="text-3xl text-mainYellow" /></a>
+                <a href="https://www.linkedin.com/in/ken-ganza" target="blank"><FaLinkedin className="text-3xl text-mainYellow" /></a>
+                <a href="https://www.github.com/kennyg37" target="blank"><FaGithub className="text-3xl text-mainYellow" /></a>
               </div>
             </div>
           </div>
         </section>
         <p className="text-center pt-4">
-          Copyright 2023 Virtulearn @All right reserved
+          Copyright 2024 Virtulearn @All right reserved
         </p>
       </section>
     </article>

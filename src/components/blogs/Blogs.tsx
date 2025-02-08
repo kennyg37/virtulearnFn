@@ -41,7 +41,7 @@ export default function Blogs() {
             />
             <div className="h-2/3 w-full bg-gradient-to-t from-purpleL to-transparent z-10 flex flex-col justify-end p-4">
               <p className="font-bold text-2xl">Is E-Learning Effective</p>
-              <p className="">Aristide Isingizwe</p>
+              <p className="">Ken Ganza</p>
             </div>
           </div>
           <div className="w-1/2 h-full rounded-2xl relative overflow-hidden flex flex-col justify-end">
@@ -52,7 +52,7 @@ export default function Blogs() {
             />
             <div className="h-2/3 w-full bg-gradient-to-t from-greenD to-transparent z-10 flex flex-col justify-end p-4">
               <p className="font-bold text-2xl">Is E-Learning Effective</p>
-              <p className="">Aristide Isingizwe</p>
+              <p className="">Ken Ganza</p>
             </div>
           </div>
         </div>
@@ -66,7 +66,7 @@ export default function Blogs() {
           />
           <div className="h-2/3 w-full bg-gradient-to-t from-yelllowD to-transparent z-10 flex flex-col justify-end p-4">
             <p className="font-bold text-2xl">Is E-Learning Effective</p>
-            <p className="">Aristide Isingizwe</p>
+            <p className="">Ken Ganza</p>
           </div>
         </div>
         <div className="w-full h-60 rounded-2xl relative overflow-hidden flex flex-col justify-end">
@@ -77,7 +77,7 @@ export default function Blogs() {
           />
           <div className="h-2/3 w-full bg-gradient-to-t from-bergeD to-transparent z-10 flex flex-col justify-end p-4">
             <p className="font-bold text-2xl">Is E-Learning Effective</p>
-            <p className="">Aristide Isingizwe</p>
+            <p className="">Ken Ganza</p>
           </div>
         </div>
       </section>

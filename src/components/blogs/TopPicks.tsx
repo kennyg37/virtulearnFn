@@ -11,8 +11,8 @@ export default function TopPicks() {
               alt=""
             />
             <div>
-              <p className="font-bold text-lg">Aristide Isingizwe</p>
-              <p>Aristide Isingizwe</p>
+              <p className="font-bold text-lg">Ken Ganza</p>
+              <p>Ken Ganza</p>
             </div>
           </div>
           <p className="z-20 font-bold text-3xl font-serif">

@@ -23,34 +23,34 @@ export default function Popular() {
       <section className="flex flex-col gap-1">
         <img
           className="h-48 w-full object-cover rounded-xl"
-          src="/course.jpg"
+          src="/course2.jpg"
           alt=""
         />
-        <p className="font-bold text-2xl">Mathematics for Machine learning</p>
-        <p className="">Ken Ganza</p>
-        <p className="font-bold text-lg">(+120 enrolled students)</p>
-        <p className="font-bold">Free</p>
+        <p className="font-bold text-2xl">Principles of Quantum physics</p>
+        <p className="">Albert Einstein</p>
+        <p className="font-bold text-lg">(+147,000 enrolled students)</p>
+        <p className="font-bold">$34.99</p>
       </section>
       <section className="flex flex-col gap-1">
         <img
           className="h-48 w-full object-cover rounded-xl"
-          src="/course.jpg"
+          src="/course3.jpg"
           alt=""
         />
-        <p className="font-bold text-2xl">Mathematics for Machine learning</p>
+        <p className="font-bold text-2xl">Supervised Machine learning</p>
         <p className="">Ken Ganza</p>
-        <p className="font-bold text-lg">(+120 enrolled students)</p>
-        <p className="font-bold">Free</p>
+        <p className="font-bold text-lg">(+50 enrolled students)</p>
+        <p className="font-bold">$69</p>
       </section>
       <section className="flex flex-col gap-1">
         <img
           className="h-48 w-full object-cover rounded-xl"
-          src="/course.jpg"
+          src="/course4.jpg"
           alt=""
         />
-        <p className="font-bold text-2xl">Mathematics for Machine learning</p>
+        <p className="font-bold text-2xl">Introduction to NextJs</p>
         <p className="">Ken Ganza</p>
-        <p className="font-bold text-lg">(+120 enrolled students)</p>
+        <p className="font-bold text-lg">(+1000 enrolled students)</p>
         <p className="font-bold">Free</p>
       </section>
     </article>

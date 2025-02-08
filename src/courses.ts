@@ -1,6 +1,6 @@
 export const pythonCourse = {
   authorId: "1",
-  author: "Aristide Isingizwe",
+  author: "Ken Ganza",
   title: "Python Programming",
   id: "1",
   coverImage:
