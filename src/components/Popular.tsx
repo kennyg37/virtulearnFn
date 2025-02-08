@@ -16,7 +16,7 @@ export default function Popular() {
           alt=""
         />
         <p className="font-bold text-2xl">Mathematics for Machine learning</p>
-        <p className="">Aristide Isingizwe</p>
+        <p className="">Ken Ganza</p>
         <p className="font-bold text-lg">(+120 enrolled students)</p>
         <p className="font-bold">Free</p>
       </section>
@@ -27,7 +27,7 @@ export default function Popular() {
           alt=""
         />
         <p className="font-bold text-2xl">Mathematics for Machine learning</p>
-        <p className="">Aristide Isingizwe</p>
+        <p className="">Ken Ganza</p>
         <p className="font-bold text-lg">(+120 enrolled students)</p>
         <p className="font-bold">Free</p>
       </section>
@@ -38,7 +38,7 @@ export default function Popular() {
           alt=""
         />
         <p className="font-bold text-2xl">Mathematics for Machine learning</p>
-        <p className="">Aristide Isingizwe</p>
+        <p className="">Ken Ganza</p>
         <p className="font-bold text-lg">(+120 enrolled students)</p>
         <p className="font-bold">Free</p>
       </section>
@@ -49,7 +49,7 @@ export default function Popular() {
           alt=""
         />
         <p className="font-bold text-2xl">Mathematics for Machine learning</p>
-        <p className="">Aristide Isingizwe</p>
+        <p className="">Ken Ganza</p>
         <p className="font-bold text-lg">(+120 enrolled students)</p>
         <p className="font-bold">Free</p>
       </section>

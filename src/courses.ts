@@ -30,10 +30,10 @@ export const pythonCourse = {
 export const umlCourse = {
   authorId: "2",
   title: "UML Diagrams Fundamentals",
-  author: "Aristide Isingizwe",
+  author: "",
   id: "2",
   coverImage:
-    "https://images.unsplash.com/3/doctype-hi-res.jpg?q=80&w=2065&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "https://unsplash.com/photos/birds-eye-view-of-sitting-on-bench-while-discussion-wqLGlhjr6Og",
   content: [
     {
       message: "Introduction to UML diagrams",
